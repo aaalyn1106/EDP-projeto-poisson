@@ -10,7 +10,7 @@ def f(x, y):
 # Montagem do sistema linear
 def montar_sistema(h=0.1):
 
-    Lx, Ly = 5.0, 3.0
+    Lx, Ly = 3.0, 3.0
 
     # Verifica o tamanho do passo
     if h <= 0:
